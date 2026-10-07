@@ -8,7 +8,7 @@ Welcome to the ultimate solution for launching your online casino! Our free, pre
 
 ## Key Features
 
-ViperPro-Casino is a robust and efficient backend system designed to power online casino platforms like [ViperPro Casino Script](https://swapvpn.com/). It offers a secure, scalable, and user-friendly architecture for managing casino operations. Below are its core features:
+ViperPro-Casino is a robust and efficient backend system designed to power online casino platforms like [ViperPro Casino Script](https://www.casino-scripts.com/). It offers a secure, scalable, and user-friendly architecture for managing casino operations. Below are its core features:
 
 ### 1. Comprehensive Casino Backend
 - Handles a wide range of games, including slots, poker, and roulette.
@@ -37,16 +37,16 @@ ViperPro-Casino is a robust and efficient backend system designed to power onlin
 
 
 ## Live Demo
-Experience the full potential of our casino site template by checking out the live demo: [ViperPro Casino Script Demo](https://swapvpn.com/). See how seamlessly our template integrates with our slot API and explore the user-friendly interface.
+Experience the full potential of our casino site template by checking out the live demo: [ViperPro Casino Script Demo](https://www.casino-scripts.com/). See how seamlessly our template integrates with our slot API and explore the user-friendly interface.
 
 ## Join Our Community
-Stay connected with our growing community of developers and casino operators. Join our Telegram group to get support, share ideas, and stay updated with the latest features and improvements: [Casino-Scripts.com on Telegram](https://cuttly.click/ctg)
+Stay connected with our growing community of developers and casino operators. Join our Telegram group to get support, share ideas, and stay updated with the latest features and improvements: [Casino-Scripts.com on Telegram](https://www.casino-scripts.com/contact/)
 
 ## Installation Guide
 Follow these steps to set up your casino site on a VPS:
 
 ## Video installation guide
-[![Install your ViperPro Script](http://img.youtube.com/vi/eWchHUfXo_8/0.jpg)](https://youtu.be/eWchHUfXo_8?si=g1uUnP-iPAwg964J "Install your ViperPro Casino Script")
+[![Install your ViperPro Script](http://img.youtube.com/vi/Eeuz67Q3smI/0.jpg)](https://youtu.be/Eeuz67Q3smI?si=g1uUnP-iPAwg964J "Install your ViperPro Casino Script")
 
 ## STEPS TO INSTALL (Manual)
 - Upload the Source to you VPS
@@ -59,7 +59,7 @@ Follow these steps to set up your casino site on a VPS:
 
 **TO GET YOUR SLOT GAMES API ORDER AT** [https://www.casino-scripts.com/](https://www.casino-scripts.com/)
 
-**TELEGRAM:** [https://www.casino-scripts.com/contact/](https://cuttly.click/ctg)
+**TELEGRAM:** [https://www.casino-scripts.com/contact/](https://www.casino-scripts.com/contact/)
 
 ## SCREENSHOTS 
 ![HOME](https://i.ibb.co/G5sxRVz/screencapture-swapvpn-2024-11-26-04-23-57.png "HOME")
