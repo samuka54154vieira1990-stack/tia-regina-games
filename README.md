@@ -1,4 +1,4 @@
-# ViperPro-Casino
+# Tia Regina Games
 Viper Pro Casino Script is an all-in-one online casino software with customizable games, perfect for launching your own casino for Free.
 
 # FREE CASINO SITE WITH OUR INTEGRATED SLOT API
